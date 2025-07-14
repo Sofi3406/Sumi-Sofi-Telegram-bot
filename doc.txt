@@ -1,0 +1,17 @@
+# Meeting Notes
+
+## Date: [Insert Date]
+## Attendees: [Member 1, Member 2]
+
+### Discussion Points
+1. **Project Idea**: Brainstormed and agreed on the bot's functionality.
+2. **Task Distribution**: Assigned specific roles and responsibilities.
+3. **Next Steps**: Outline action items and deadlines.
+
+### Action Items
+- Sofiya: Research and implement bot functionality.
+- Sumeya Set up the GitHub repository and manage branches.
+
+### Next Meeting
+- **Date**:7/18/25
+- **Agenda**: Review progress and demo initial features.
