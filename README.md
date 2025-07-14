@@ -34,8 +34,8 @@ Use Next to cycle through items in the selected category
 Use Back to Menu to return to the main selection
 
 # Project Structure
-
-how-meet-my-friend-bot/
+ 
+ how-meet-my-friend-bot/
 │
 ├── bot.js              # Main bot code - handlers, logic, buttons
 ├── data.js             # Data file - categories, buttons, content & helper functions   
@@ -44,3 +44,5 @@ how-meet-my-friend-bot/
 ├── package.json        # Project config and dependencies
 ├── package-lock.json   # Auto-generated dependency tree lock file
 └── node_modules/       # Installed npm packages (ignored by git)
+|_doc.txt               #An outline of tasks assigned to team members.
+
