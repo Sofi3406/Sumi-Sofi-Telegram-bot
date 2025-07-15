@@ -1,8 +1,8 @@
-# How Meet My Friend Bot 🤝
+# 🤖 How Meet My Friend Bot 🤝
 
 The bot sends quotes and info based on categories like Greeting, Advice, Joke, Tech Courses, with navigation buttons Next and Back to menu.
 
-# Features
+# ✨ Features
 
   Interactive buttons:
 
@@ -24,7 +24,7 @@ Supports "Next" to cycle through category items
 
 Clean, user-friendly Telegram UI
 
-# Usage
+# 🧩  Usage
 Open Telegram and search your bot by username
 
 Start chatting and click on buttons to get quotes, advice, jokes, tech course info
@@ -44,3 +44,6 @@ how-meet-my-friend-bot/
 ├── package.json        # Project config and dependencies
 ├── package-lock.json   # Auto-generated dependency tree lock file
 └── node_modules/       # Installed npm packages (ignored by git)
+# 🤖 /about command
+Type `/about` in chat → Bot replies with:
+> "🌸 This bot was lovingly made by Sumeya and Sofia! ✨"
