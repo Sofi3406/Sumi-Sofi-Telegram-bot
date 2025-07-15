@@ -46,3 +46,17 @@ Use Back to Menu to return to the main selection
 └── node_modules/       # Installed npm packages (ignored by git)
 |_doc.txt               #An outline of tasks assigned to team members.
 
+
+
+
+
+
+
+### 📽️ Demo (Video Walkthrough)
+
+Check out the short video demonstration of the bot in action:
+
+👉 [Watch on Awesome Screenshot]
+https://www.awesomescreenshot.com/video/42065957?key=a2a6f4c03642d818c62111ec6f7225ef
+
+This walkthrough shows how the **"How Meet My Friend Bot"** responds to different category buttons (Greeting, Advice, Joke, Tech Courses), as well as how the **Next** and **Back to Menu** buttons function.
