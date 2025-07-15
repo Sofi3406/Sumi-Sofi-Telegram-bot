@@ -1,17 +1,28 @@
-# Meeting Notes
+📝 Meeting Notes
+Team Members: Sofiya, Sumya
 
-## Date: [Insert Date]
-## Attendees: [Member 1, Member 2]
+📅 Date: 07/11/2025
+Discussion:
+Brainstormed and finalized the project idea for the Telegram bot.
 
-### Discussion Points
-1. **Project Idea**: Brainstormed and agreed on the bot's functionality.
-2. **Task Distribution**: Assigned specific roles and responsibilities.
-3. **Next Steps**: Outline action items and deadlines.
+Decided on core functionalities and features.
 
-### Action Items
-- Sofiya: Research and implement bot functionality.
-- Sumeya Set up the GitHub repository and manage branches.
+📅 Date: 07/12/2025
+Discussion:
+ Implementation Start: Began setting up the development environment.
 
-### Next Meeting
-- **Date**:7/18/25
-- **Agenda**: Review progress and demo initial features.
+Task Distribution:
+
+Sofiya: Implement bot logic and features.
+
+Sumya: Set up GitHub repository and manage branches.
+
+Action Items:
+ Sofiya: Research and build bot functionalities.
+
+ Sumya: Configure repository, commit history, and branch structure.
+📅 Date: 07/15/2025
+ Activities:
+ Conducted testing of the bot.
+Verified command responses, category navigation, and data display.
+  And Finalize our project.
