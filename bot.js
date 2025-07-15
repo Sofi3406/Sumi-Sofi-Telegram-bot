@@ -46,3 +46,6 @@ bot.on("callback_query", (ctx) => {
 
 bot.launch();
 console.log("How Meet My Friend Bot.");
+bot.command('about', (ctx) => {
+  ctx.reply("🌸 This bot was lovingly made by Sumeya and Sofia! ✨");
+});
