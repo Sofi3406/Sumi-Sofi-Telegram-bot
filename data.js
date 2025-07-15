@@ -9,6 +9,11 @@ const categories = {
       "Hello my name is Sofiya! 👋",
       "Hi Sofiya! My name is Sumeya ☀️",
       "Good morning Sumi,How are you 😊",
+      "Have a nice day! 🌼",
+      "Hey there! Hope you’re doing great! ✨",
+      "Salam! 🌿",
+      "Hi Sumeya, ready to code? 💻",
+      "Hello Sofiya, let’s learn something new today! 📚"
     ],
   },
   "2": {
